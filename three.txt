@@ -1,6 +1,4 @@
-<<<<<<< HEAD
+
 74568234
-0000000
-=======
-this is testing branch 
->>>>>>> 98b9c80... added three.txt
+00000
+this is testing branch  
